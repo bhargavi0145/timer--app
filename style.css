@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #6c6d6e;
+    margin: 0;
+    
+  }
+  .clock {
+    font-size: 3rem;
+    font-weight: bold;
+    
+  }
+  #time {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(52, 48, 50);
+   
+  }
